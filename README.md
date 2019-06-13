@@ -22,7 +22,7 @@ the class assumes undergraduate probability, linear algebra and multi-variable c
 
 ## Start the course
 
-Go to the [units sequence](sequence.md) to being the machine learning course.
+Go to the [units sequence](sequence.md) to begin the machine learning course.
 
 ## Feedback
 

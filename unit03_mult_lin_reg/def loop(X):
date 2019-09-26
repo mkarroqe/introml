@@ -1,0 +1,5 @@
+def loop(X):
+	n = X.shape[0]
+	yhat = np.zeros(n)
+	for i in range(n):
+		yhat[i] = beta[0]*X[i,0] + beta[1]*X[i,1] + beta[2]*X[i,1]*X[i,2]
